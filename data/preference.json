@@ -1,0 +1,48 @@
+{
+  "like": {
+    "senderName": {},
+    "senderUsername": {
+      "MatieArts": 73
+    },
+    "sendTime": {
+      "s": 7,
+      "m": 9,
+      "h": 12
+    },
+    "tweetText": {
+      "pizza": 70,
+      "burger": 58,
+      "fast food": 30
+    },
+    "likesCount": {
+      "100": 5,
+      "1000": 10
+    },
+    "commentsCounts": {
+      "100": 5,
+      "1000": 10
+    },
+    "retweetsCounts": {
+      "100": 5,
+      "1000": 10
+    }
+  },
+  "follow": {
+    "senderName": {},
+    "senderUsername": {},
+    "sendTime": {},
+    "tweetText": {},
+    "likesCount": {},
+    "commentsCounts": {},
+    "retweetsCounts": {}
+  },
+  "retweet": {
+    "senderName": {},
+    "senderUsername": {},
+    "sendTime": {},
+    "tweetText": {},
+    "likesCount": {},
+    "commentsCounts": {},
+    "retweetsCounts": {}
+  }
+}

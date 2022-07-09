@@ -1,0 +1,60 @@
+{
+  "chromeDriver": "C:\\Program Files\\Google\\Chrome\\chromedriver.exe",
+  "login": {
+    "emailField": "//*[@id=\"react-root\"]/div/div/div/main/div/div/div/div[2]/div[2]/div/div[5]/label/div/div[2]/div/input",
+    "usernameField": "//*[@id=\"react-root\"]/div/div/div/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/label/div/div[2]/div/input",
+    "passwordField": "//*[@id=\"react-root\"]/div/div/div/main/div/div/div/div[2]/div[2]/div[1]/div/div/div/div[3]/div/label/div/div[2]/div[1]/input"
+  },
+  "account": {
+    "profile": "//*[@id=\"react-root\"]/div/div/div[2]/header/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div[4]/div",
+    "logout": "//*[@id=\"react-root\"]/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div/a[2]/div[1]/div/span",
+    "confirmLogOut": "//*[@id=\"react-root\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div[2]/div[1]/div",
+    "explore": "//*[@id=\"react-root\"]/div/div/div[2]/header/div/div/div/div[1]/div[2]/nav/a[2]/div",
+    "searchBar": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[1]/div[1]/div/div/div/div/div[1]/div[2]/div/div/div/form/div[1]/div/div/label/div[2]/div/input",
+    "home": "//*[@id=\"react-root\"]/div/div/div[2]/header/div/div/div/div[1]/div[2]/nav/a[1]/div",
+    "writeTweet": "//*[@id=\"react-root\"]/div/div/div[2]/header/div/div/div/div[1]/div[3]/a/div",
+    "writeTweetBody": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[3]/div/div/div[1]/div/div/div/div/div[2]/div[1]/div/div/div/div/div/div[2]/div/div/div/label/div[1]/div/div/div/div/div[2]/div/div/div/div",
+    "postTweet": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div/div/div/div[3]/div/div",
+    "info": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[1]/div/div[2]/div/div[2]/div/a/div[4]/div"
+  },
+  "info": {
+    "editProfile": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div[2]/div[1]/div[2]/a",
+    "tweets": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/nav/div/div[2]/div/div[1]/a",
+    "replies": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/nav/div/div[2]/div/div[2]/a",
+    "media": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/nav/div/div[2]/div/div[3]/a",
+    "likes": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/nav/div/div[2]/div/div[4]/a"
+  },
+  "editProfile": {
+    "save": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[1]/div/div/div/div/div[3]/div",
+    "addBannerPhoto": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[1]/div/div/div[3]/div/div/div",
+    "addProfilePhoto": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[2]/div/div/div[3]/div/div/div",
+    "name": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[3]/label/div/div[2]/div/input",
+    "bio": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[4]/label/div/div[2]/div/textarea",
+    "location": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[5]/label/div/div[2]/div/input",
+    "website": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div[2]/div/div[6]/label/div/div[2]/div/input"
+  },
+  "otherUserProfiles": {
+    "followButton": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div/div[1]/div[2]/div[2]/div[1]/div",
+    "bio": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div/div[3]/div/div",
+    "following": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div/div[5]/div[1]/a/span[1]/span",
+    "followers": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div/div[5]/div[2]/a/span[1]/span",
+    "notify": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div[1]/div[1]/div[2]/div[2]/div/div",
+    "unfollow": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div/div/div[1]/div[1]/div[2]/div[3]/div[1]/div"
+  },
+  "createAccount": {
+    "signWithEmail": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div/div[5]",
+    "nameField": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/div[1]/label/div/div[2]/div/input",
+    "useEmailButton": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/div[3]/span",
+    "emailField": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/div[2]/label/div/div[2]/div/input",
+    "monthSelector": "//*[@id=\"SELECTOR_1\"]",
+    "daySelector": "//*[@id=\"SELECTOR_2\"]",
+    "yearSelector": "//*[@id=\"SELECTOR_3\"]",
+    "vCode": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/label/div/div[2]/div/input",
+    "passwordField": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div/label/div/div[2]/div[1]/input",
+    "usernameField": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div[2]/div[2]/div[1]/div/div/div[2]/label/div/div[2]/div/input"
+  },
+  "tempMail": {
+    "mail": "//*[@id=\"mail\"]",
+    "copy": "//*[@id=\"tm-body\"]/div[1]/div/div/div[2]/div[1]/form/div[1]/div/button[2]"
+  }
+}
